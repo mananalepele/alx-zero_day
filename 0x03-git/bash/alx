@@ -1,3 +1,6 @@
 #!/bin/bash
 echo "ALX School is so cool!"
+<<<<<<< HEAD
 >>>>>>> master
+=======
+>>>>>>> e3fffe48b5bb6b750e84310b8a7be2dd83b560d6
